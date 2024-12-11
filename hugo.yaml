@@ -1,0 +1,4 @@
+baseURL: https://splaspood.com/
+languageCode: en-us
+title: Title Goes Here
+theme: ["PaperMod"]

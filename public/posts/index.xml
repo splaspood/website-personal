@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Title Goes Here</title>
+    <link>https://splaspood.com/posts/</link>
+    <description>Recent content in Posts on Title Goes Here</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 22:43:39 -0500</lastBuildDate>
+    <atom:link href="https://splaspood.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://splaspood.com/posts/my-first-post/</link>
+      <pubDate>Tue, 10 Dec 2024 22:43:39 -0500</pubDate>
+      <guid>https://splaspood.com/posts/my-first-post/</guid>
+      <description>Just a short note &amp;ldquo;for now&amp;rdquo;&amp;hellip; I figure once every few years I should make another post. When I went to migrate this blog off it&amp;rsquo;s previous VM to a new kubernetes managed VM I have recently provisioned, I found that I didn&amp;rsquo;t really want to deal with ruby just to update my blog and besides it appeared Jekyll hadn&amp;rsquo;t been touched in nine years! Think of all the features I&amp;rsquo;ve been missing out on!</description>
+    </item>
+  </channel>
+</rss>
